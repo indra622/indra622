@@ -13,8 +13,9 @@
 
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/parkhosung/)
-[![Email Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:hosungpark@sogang.ac.kr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parkhosung/)
+[![Email Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hosungpark@sogang.ac.kr)
+[![CV Badge](https://img.shields.io/badge/-CV-brightgreen?style=flat-square&logo=Github&logoColor=white)](https://www.github.io/misc/CV.pdf)
 
 </div>
 
