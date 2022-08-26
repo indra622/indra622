@@ -15,7 +15,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parkhosung/)
 [![Email Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hosungpark@sogang.ac.kr)
-[![CV Badge](https://img.shields.io/badge/-CV-brightgreen?style=flat-square&logo=Github&logoColor=white)](https://www.github.io/misc/CV.pdf)
+[![CV Badge](https://img.shields.io/badge/-CV-brightgreen?style=flat-square&logo=Github&logoColor=white)](https://indra622.github.io/misc/Hosung_CV.pdf)
 
 </div>
 
