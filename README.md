@@ -19,10 +19,10 @@
 [![Google Scholar](https://img.shields.io/badge/-Scholar-blueviolet?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=ko&user=C04T12QAAAAJ&view_op=list_works)
 
 </div>
-
+<!--
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=indra622&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyome22's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra622&layout=compact&theme=buefy&hide_border=true" /> |
 | ----- | ----- |
-
+-->
 <!--
 **indra622/indra622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
