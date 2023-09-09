@@ -6,9 +6,8 @@
 
 </div>
 
-### Ph.D candidate at Sogang university.
-* Major in Computer Science and Engineering
-* Research focuses on Speech Recognition
+### AI engineer at KB AI Research.
+* Research focuses on Speech Recognition, Speech Synthesis and Speaker recognition.
 
 
 <div align=center>
